@@ -21,3 +21,8 @@
 * `C#`
 * `Java`
 * `Python`
+
+<details>
+        <summary><b>I have keys but no doors.<br>I have space but no room.<br>You can enter but can’t leave.<br>What am I?</b></summary>
+        A keyboard.
+</details>
