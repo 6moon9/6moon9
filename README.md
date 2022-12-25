@@ -4,8 +4,13 @@
 [My organization](https://github.com/IngeniumTeam)
 
 ## My Projects
+* [PixelClock](../PixelClock) A clock with nice transitions
 * [Matrix](../Matrix) An awesome screen saver or just a webpage to lost time
+* [Donut](../Donut) A spinning donut exclusivly made of ASCII characters
 * [AsciiArt](../AsciiArt) Some beautiful ASCII draws
+
+## Pages
+* [ChatGPT](./ChatGPT/) Some funny examples of [ChatGPT](https://chat.openai.com/chat) ([OpenAI](https://openai.com)) results
 
 ## My code experience
 * `HTML` _Hyper Text Markup Language_
